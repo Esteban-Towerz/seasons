@@ -1,3 +1,14 @@
+### Seasons
+
+Structuring Apps with React Class-based Components
+
+- [x] Need to get the user Physical location
+- [x] Need to determine the current month
+- [x] Need to change text and styling based on location + month
+
+![seasons](https://user-images.githubusercontent.com/25851867/51087852-88090780-1726-11e9-8082-0024d07b6350.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
